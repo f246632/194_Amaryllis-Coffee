@@ -1,0 +1,59 @@
+{
+  "name": "Amaryllis Coffee",
+  "tagline": "Wo der Wedding aufblüht",
+  "category": "Specialty Coffee Shop",
+  "address": {
+    "street": "Koloniestraße 9",
+    "city": "Berlin",
+    "postalCode": "13357",
+    "district": "Wedding",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 (0) 30 XXX XXXXX",
+    "email": "info@amarylliscoffee.berlin",
+    "website": ""
+  },
+  "hours": {
+    "monday": "08:00 - 19:00",
+    "tuesday": "08:00 - 19:00",
+    "wednesday": "08:00 - 19:00",
+    "thursday": "08:00 - 19:00",
+    "friday": "08:00 - 19:00",
+    "saturday": "09:00 - 18:00",
+    "sunday": "10:00 - 17:00"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/amaryllis.coffee.berlin/",
+    "facebook": "",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Amaryllis%20Coffee&query_place_id=ChIJvQYxJgtTqEcR2Z3eFBBUHQI"
+  },
+  "description": {
+    "de": "Ein helles, freundliches Café im Wedding. Wo sich früher die schummrige Bar Oh!Calcutta befand, ist nun ein einladender Ort zum Verweilen entstanden. Jeder Tisch hat eine Blumenvase, und im hinteren Bereich steht ein großer Strauß Amaryllis. Das Café wird von Brüdern mit libanesischen Wurzeln geführt.",
+    "en": "A bright, friendly café in Wedding. Where the dimly-lit bar Oh!Calcutta once stood, an inviting place to linger has been created. Every table has a flower vase, and in the back area stands a large bouquet of amaryllis. The café is run by brothers with Lebanese roots."
+  },
+  "features": [
+    "Specialty Coffee from Flying Roasters (local Wedding roaster)",
+    "Wide selection of teas",
+    "Homemade cakes and pastries",
+    "Limonades and Fritz-Kola products",
+    "Homemade hummus with Arabic bread",
+    "Bowls for lunch",
+    "Free WiFi",
+    "Spacious back room for working on laptops",
+    "Cozy atmosphere with fresh flowers",
+    "Perfect for solo dining and working"
+  ],
+  "amenities": [
+    "Große Auswahl an Teesorten",
+    "Guter Kaffee",
+    "Frühstück",
+    "Allein speisen"
+  ],
+  "specialties": [
+    "Coffee specialties from Flying Roasters",
+    "Homemade hummus with Arabic bread",
+    "Fresh homemade cakes",
+    "Wide tea selection"
+  ]
+}

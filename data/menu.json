@@ -1,0 +1,107 @@
+{
+  "menu": {
+    "coffee": [
+      {
+        "name": "Espresso",
+        "description": "Classic Italian espresso from Flying Roasters",
+        "price": "€2.50"
+      },
+      {
+        "name": "Cappuccino",
+        "description": "Espresso with steamed milk and foam",
+        "price": "€3.50"
+      },
+      {
+        "name": "Flat White",
+        "description": "Velvety microfoam with espresso",
+        "price": "€3.80"
+      },
+      {
+        "name": "Latte Macchiato",
+        "description": "Layered espresso with steamed milk",
+        "price": "€3.80"
+      },
+      {
+        "name": "Americano",
+        "description": "Espresso with hot water",
+        "price": "€3.00"
+      },
+      {
+        "name": "Filter Coffee",
+        "description": "Pour over from Flying Roasters beans",
+        "price": "€3.20"
+      }
+    ],
+    "tea": [
+      {
+        "name": "Black Tea",
+        "description": "Selection of premium black teas",
+        "price": "€3.00"
+      },
+      {
+        "name": "Green Tea",
+        "description": "Japanese and Chinese green teas",
+        "price": "€3.00"
+      },
+      {
+        "name": "Herbal Tea",
+        "description": "Various herbal infusions",
+        "price": "€3.00"
+      },
+      {
+        "name": "Fruit Tea",
+        "description": "Fruity and refreshing blends",
+        "price": "€3.00"
+      }
+    ],
+    "food": [
+      {
+        "name": "Homemade Hummus",
+        "description": "Traditional hummus with Arabic bread",
+        "price": "€6.50"
+      },
+      {
+        "name": "Breakfast Bowl",
+        "description": "Fresh bowl with seasonal ingredients",
+        "price": "€7.50"
+      },
+      {
+        "name": "Lunch Bowl",
+        "description": "Hearty bowl with fresh vegetables",
+        "price": "€8.50"
+      },
+      {
+        "name": "Homemade Cake",
+        "description": "Daily changing selection of fresh cakes",
+        "price": "€4.50"
+      },
+      {
+        "name": "Croissant",
+        "description": "Butter croissant",
+        "price": "€2.50"
+      }
+    ],
+    "coldDrinks": [
+      {
+        "name": "Fritz-Kola",
+        "description": "Original or sugar-free",
+        "price": "€3.00"
+      },
+      {
+        "name": "Fritz-Limo",
+        "description": "Various flavors",
+        "price": "€3.00"
+      },
+      {
+        "name": "Homemade Lemonade",
+        "description": "Fresh seasonal lemonade",
+        "price": "€3.50"
+      },
+      {
+        "name": "Iced Coffee",
+        "description": "Cold brew or iced latte",
+        "price": "€4.00"
+      }
+    ]
+  }
+}

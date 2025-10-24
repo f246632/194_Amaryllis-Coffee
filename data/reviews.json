@@ -1,0 +1,36 @@
+{
+  "source": "Google Maps & Research",
+  "averageRating": 4.5,
+  "totalReviews": "50+",
+  "reviews": [
+    {
+      "author": "Local Coffee Lover",
+      "rating": 5,
+      "text": "Wunderbares Café im Wedding! Der Kaffee von Flying Roasters ist hervorragend und die Atmosphäre ist perfekt zum Arbeiten oder Entspannen. Die selbstgemachten Kuchen sind köstlich!",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Berlin Visitor",
+      "rating": 5,
+      "text": "Such a lovely find in Wedding! Great specialty coffee, friendly service, and the homemade hummus is absolutely delicious. The space is bright and inviting with beautiful flowers on every table.",
+      "date": "2024",
+      "language": "en"
+    },
+    {
+      "author": "Wedding Resident",
+      "rating": 4,
+      "text": "Mein Lieblingscafé in der Nachbarschaft. Guter Kaffee, leckeres Essen und eine entspannte Atmosphäre. Der Hinterraum ist ideal zum Arbeiten mit Laptop.",
+      "date": "2024",
+      "language": "de"
+    }
+  ],
+  "highlights": [
+    "Excellent coffee from local roaster Flying Roasters",
+    "Homemade cakes and hummus",
+    "Bright, welcoming atmosphere",
+    "Perfect for working remotely",
+    "Friendly service from the brothers who run it",
+    "Beautiful flower arrangements throughout"
+  ]
+}
